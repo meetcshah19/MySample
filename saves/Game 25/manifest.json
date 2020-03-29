@@ -1,0 +1,119 @@
+{
+  "title": "Game 25",
+  "seed": "f5cruxCS4wbgYeP6TrM2a84TImdiO5fdTutorial World-00",
+  "time": 54499,
+  "registeredBlockFamilies": [
+    "CoreBlocks:Tulip",
+    "CoreBlocks:TrunkRight",
+    "CoreBlocks:Dandelion",
+    "engine:unloaded",
+    "CoreBlocks:TrunkLeft",
+    "CoreBlocks:Chest",
+    "CoreBlocks:water",
+    "CoreBlocks:Iris",
+    "CoreBlocks:DoorBottom",
+    "engine:air",
+    "CoreBlocks:Ice",
+    "CoreBlocks:Brick",
+    "CoreBlocks:DoorTop",
+    "CoreBlocks:Plank",
+    "CoreBlocks:Tnt",
+    "CoreBlocks:Torch",
+    "CoreBlocks:lava",
+    "CoreBlocks:Brick:engine:stair",
+    "CoreBlocks:YellowFlower",
+    "CoreBlocks:Dirt"
+  ],
+  "blockIdMap": {
+    "CoreBlocks:lava": 37,
+    "CoreBlocks:DoorBottom.RIGHT": 6,
+    "CoreBlocks:Chest.RIGHT": 26,
+    "CoreBlocks:TrunkRight.BACK": 16,
+    "CoreBlocks:TrunkLeft.BACK": 12,
+    "CoreBlocks:DoorTop.FRONT": 3,
+    "CoreBlocks:DoorTop.LEFT": 1,
+    "engine:unloaded": 17,
+    "CoreBlocks:Tulip": 41,
+    "CoreBlocks:Chest.LEFT": 25,
+    "CoreBlocks:DoorBottom.FRONT": 7,
+    "CoreBlocks:YellowFlower": 42,
+    "CoreBlocks:Chest.FRONT": 27,
+    "CoreBlocks:Plank": 36,
+    "CoreBlocks:Dandelion": 40,
+    "CoreBlocks:DoorBottom.LEFT": 5,
+    "CoreBlocks:water": 38,
+    "CoreBlocks:TrunkRight.LEFT": 13,
+    "engine:air": 24,
+    "CoreBlocks:Brick:engine:stair.LEFT": 29,
+    "CoreBlocks:Brick:engine:stair.RIGHT": 30,
+    "CoreBlocks:Torch.BACK": 48,
+    "CoreBlocks:Dirt": 18,
+    "CoreBlocks:Torch.FRONT": 47,
+    "CoreBlocks:TrunkLeft.LEFT": 9,
+    "CoreBlocks:TrunkLeft.FRONT": 11,
+    "CoreBlocks:TrunkRight.FRONT": 15,
+    "CoreBlocks:Torch.BOTTOM": 44,
+    "CoreBlocks:DoorTop.BACK": 4,
+    "CoreBlocks:Ice": 35,
+    "CoreBlocks:TrunkRight.RIGHT": 14,
+    "CoreBlocks:DoorBottom.BACK": 8,
+    "CoreBlocks:Chest.BACK": 28,
+    "CoreBlocks:Iris": 39,
+    "CoreBlocks:DoorTop.RIGHT": 2,
+    "CoreBlocks:Brick:engine:stair.BACK": 32,
+    "CoreBlocks:Torch.RIGHT": 46,
+    "CoreBlocks:Tnt": 33,
+    "CoreBlocks:Brick:engine:stair.FRONT": 31,
+    "CoreBlocks:Torch.LEFT": 45,
+    "CoreBlocks:Brick": 34,
+    "CoreBlocks:Torch.TOP": 43,
+    "CoreBlocks:TrunkLeft.RIGHT": 10
+  },
+  "worlds": {
+    "main": {
+      "title": "main",
+      "customTitle": "Tutorial World-0",
+      "seed": "f5cruxCS4wbgYeP6TrM2a84TImdiO5fdTutorial World-00",
+      "time": 43200000,
+      "worldGenerator": "MySample:tutorialWorld"
+    }
+  },
+  "modules": [
+    {
+      "name": "Core",
+      "version": "3.0.0-SNAPSHOT"
+    },
+    {
+      "name": "BiomesAPI",
+      "version": "3.0.0-SNAPSHOT"
+    },
+    {
+      "name": "engine",
+      "version": "3.0.0-SNAPSHOT"
+    },
+    {
+      "name": "Health",
+      "version": "0.1.0-SNAPSHOT"
+    },
+    {
+      "name": "CoreSampleGameplay",
+      "version": "3.0.0-SNAPSHOT"
+    },
+    {
+      "name": "CoreBlocks",
+      "version": "1.0.1-SNAPSHOT"
+    },
+    {
+      "name": "Inventory",
+      "version": "1.0.0-SNAPSHOT"
+    },
+    {
+      "name": "CoreAssets",
+      "version": "1.0.2-SNAPSHOT"
+    },
+    {
+      "name": "MySample",
+      "version": "0.1.0-SNAPSHOT"
+    }
+  ]
+}

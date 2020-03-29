@@ -1,0 +1,219 @@
+{
+  "title": "Game 19",
+  "seed": "",
+  "time": 3558716,
+  "registeredBlockFamilies": [
+    "CoreBlocks:CobbleStone:StructuralResources:pillarBase",
+    "CoreBlocks:TrunkRight",
+    "CoreBlocks:RedLeaf",
+    "CoreBlocks:Dandelion",
+    "CoreBlocks:CobbleStone:engine:stair",
+    "StructuralResources:PlanksEvenDark",
+    "StructuralResources:StoneBlocksDark",
+    "CoreBlocks:DoorBottom",
+    "engine:air",
+    "CoreBlocks:Plank",
+    "CoreBlocks:Torch",
+    "CoreBlocks:GreenLeaf",
+    "CoreBlocks:BigBrownShroom",
+    "StructuralResources:Barrel",
+    "CoreBlocks:CobbleStone",
+    "CoreBlocks:DarkLeaf",
+    "CoreBlocks:RedShroom",
+    "CoreBlocks:Iris",
+    "CoreBlocks:BirchTrunk",
+    "CoreBlocks:DoorTop",
+    "CoreBlocks:Glowbell",
+    "CoreBlocks:BrownShroom",
+    "CoreBlocks:TallGrass3",
+    "CoreBlocks:YellowFlower",
+    "CoreBlocks:Tulip",
+    "StructuralResources:RoofTilesLarge",
+    "CoreBlocks:Cactus",
+    "CoreBlocks:Sand",
+    "engine:unloaded",
+    "CoreBlocks:RedClover",
+    "CoreBlocks:Ice",
+    "CoreBlocks:Lavender",
+    "CoreBlocks:Stone",
+    "CoreBlocks:TallGrass2",
+    "CoreBlocks:Snow",
+    "CoreBlocks:TrunkLeft",
+    "CoreBlocks:Water",
+    "CoreBlocks:Gravel",
+    "CoreBlocks:RedFlower",
+    "CoreBlocks:PineTrunk",
+    "CoreBlocks:Ladder",
+    "Fences:Fence",
+    "CoreBlocks:CobbleStone:StructuralResources:pillar",
+    "CoreBlocks:CobbleStone:StructuralResources:pillarTop",
+    "CoreBlocks:TallGrass1",
+    "CoreBlocks:Grass",
+    "StructuralResources:StoneBlocks",
+    "CoreBlocks:Dirt",
+    "CoreBlocks:OakTrunk"
+  ],
+  "blockIdMap": {
+    "CoreBlocks:CobbleStone:engine:stair.BACK": 46,
+    "CoreBlocks:CobbleStone:engine:stair.RIGHT": 44,
+    "CoreBlocks:TrunkRight.BACK": 16,
+    "CoreBlocks:TrunkLeft.BACK": 12,
+    "CoreBlocks:Ladder.BACK": 54,
+    "StructuralResources:RoofTilesLarge": 24,
+    "engine:unloaded": 18,
+    "CoreBlocks:Tulip": 79,
+    "CoreBlocks:DoorTop.LEFT": 1,
+    "Fences:Fence.48": 41,
+    "CoreBlocks:DoorBottom.FRONT": 7,
+    "CoreBlocks:Dandelion": 73,
+    "CoreBlocks:Stone": 64,
+    "StructuralResources:Barrel.FRONT": 49,
+    "CoreBlocks:TrunkRight.LEFT": 13,
+    "CoreBlocks:Glowbell": 74,
+    "StructuralResources:StoneBlocks": 21,
+    "StructuralResources:Barrel.BACK": 50,
+    "Fences:Fence.34": 29,
+    "CoreBlocks:TrunkLeft.FRONT": 11,
+    "Fences:Fence.32": 30,
+    "CoreBlocks:BirchTrunk": 86,
+    "CoreBlocks:TrunkRight.FRONT": 15,
+    "CoreBlocks:Torch.BOTTOM": 59,
+    "CoreBlocks:DoorTop.BACK": 4,
+    "CoreBlocks:Ice": 66,
+    "CoreBlocks:Gravel": 20,
+    "CoreBlocks:DarkLeaf": 88,
+    "CoreBlocks:DoorTop.RIGHT": 2,
+    "Fences:Fence.38": 27,
+    "Fences:Fence.36": 28,
+    "CoreBlocks:RedFlower": 78,
+    "CoreBlocks:Water": 65,
+    "CoreBlocks:BigBrownShroom": 81,
+    "CoreBlocks:GreenLeaf": 87,
+    "CoreBlocks:Torch.LEFT": 60,
+    "CoreBlocks:CobbleStone:StructuralResources:pillarBase": 55,
+    "CoreBlocks:Ladder.FRONT": 53,
+    "CoreBlocks:Torch.TOP": 58,
+    "CoreBlocks:Cactus": 90,
+    "CoreBlocks:TrunkLeft.RIGHT": 10,
+    "CoreBlocks:CobbleStone:engine:stair.FRONT": 45,
+    "CoreBlocks:DoorBottom.RIGHT": 6,
+    "Fences:Fence.22": 31,
+    "Fences:Fence.6": 36,
+    "Fences:Fence.20": 32,
+    "CoreBlocks:CobbleStone:StructuralResources:pillarTop": 57,
+    "CoreBlocks:DoorTop.FRONT": 3,
+    "CoreBlocks:Ladder.RIGHT": 52,
+    "CoreBlocks:Sand": 67,
+    "CoreBlocks:Snow": 69,
+    "CoreBlocks:YellowFlower": 80,
+    "CoreBlocks:Plank": 26,
+    "CoreBlocks:DoorBottom.LEFT": 5,
+    "CoreBlocks:BrownShroom": 82,
+    "CoreBlocks:OakTrunk": 84,
+    "engine:air": 17,
+    "CoreBlocks:CobbleStone:StructuralResources:pillar": 56,
+    "CoreBlocks:PineTrunk": 85,
+    "CoreBlocks:TallGrass3": 72,
+    "StructuralResources:StoneBlocksDark": 22,
+    "CoreBlocks:Torch.BACK": 63,
+    "CoreBlocks:TallGrass2": 71,
+    "CoreBlocks:TallGrass1": 70,
+    "CoreBlocks:Dirt": 19,
+    "CoreBlocks:Torch.FRONT": 62,
+    "CoreBlocks:TrunkLeft.LEFT": 9,
+    "Fences:Fence.54": 35,
+    "CoreBlocks:RedLeaf": 89,
+    "CoreBlocks:Ladder.LEFT": 51,
+    "CoreBlocks:Lavender": 76,
+    "Fences:Fence.52": 37,
+    "Fences:Fence.50": 39,
+    "StructuralResources:Barrel.RIGHT": 48,
+    "CoreBlocks:TrunkRight.RIGHT": 14,
+    "CoreBlocks:DoorBottom.BACK": 8,
+    "Fences:Fence.18": 33,
+    "CoreBlocks:Iris": 75,
+    "Fences:Fence.16": 34,
+    "CoreBlocks:CobbleStone": 23,
+    "CoreBlocks:CobbleStone:engine:stair.LEFT": 43,
+    "CoreBlocks:Torch.RIGHT": 61,
+    "CoreBlocks:RedShroom": 83,
+    "Fences:Fence.0": 42,
+    "StructuralResources:Barrel.LEFT": 47,
+    "CoreBlocks:Grass": 68,
+    "CoreBlocks:RedClover": 77,
+    "Fences:Fence.4": 38,
+    "StructuralResources:PlanksEvenDark": 25,
+    "Fences:Fence.2": 40
+  },
+  "worlds": {
+    "main": {
+      "title": "main",
+      "customTitle": "",
+      "seed": "Qdm3L9ClHWSJrpfIqU0uiPp75tGu4OBF",
+      "time": 43200000,
+      "worldGenerator": "StaticCities:staticCities"
+    }
+  },
+  "modules": [
+    {
+      "name": "Pathfinding",
+      "version": "0.3.1-SNAPSHOT"
+    },
+    {
+      "name": "StaticCities",
+      "version": "0.2.3-SNAPSHOT"
+    },
+    {
+      "name": "BiomesAPI",
+      "version": "3.0.0-SNAPSHOT"
+    },
+    {
+      "name": "Cities",
+      "version": "1.0.0-SNAPSHOT"
+    },
+    {
+      "name": "Health",
+      "version": "0.1.0-SNAPSHOT"
+    },
+    {
+      "name": "CoreBlocks",
+      "version": "1.0.1-SNAPSHOT"
+    },
+    {
+      "name": "Inventory",
+      "version": "1.0.0-SNAPSHOT"
+    },
+    {
+      "name": "Core",
+      "version": "3.0.0-SNAPSHOT"
+    },
+    {
+      "name": "CommonWorld",
+      "version": "0.2.2-SNAPSHOT"
+    },
+    {
+      "name": "StructuralResources",
+      "version": "2.0.0-SNAPSHOT"
+    },
+    {
+      "name": "Fences",
+      "version": "0.1.1-SNAPSHOT"
+    },
+    {
+      "name": "MarkovChains",
+      "version": "1.5.1-SNAPSHOT"
+    },
+    {
+      "name": "engine",
+      "version": "3.0.0-SNAPSHOT"
+    },
+    {
+      "name": "NameGenerator",
+      "version": "0.4.3-SNAPSHOT"
+    },
+    {
+      "name": "CoreAssets",
+      "version": "1.0.2-SNAPSHOT"
+    }
+  ]
+}

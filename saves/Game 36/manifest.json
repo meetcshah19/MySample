@@ -1,0 +1,101 @@
+{
+  "title": "Game 36",
+  "seed": "yF4u0twFEoY5v6N3WldBQD9g07uTyIyYTutorial World-00",
+  "time": 141802,
+  "registeredBlockFamilies": [
+    "CoreBlocks:Tulip",
+    "CoreBlocks:Dandelion",
+    "engine:unloaded",
+    "CoreBlocks:chest",
+    "CoreBlocks:water",
+    "CoreBlocks:Iris",
+    "engine:air",
+    "CoreBlocks:Ice",
+    "CoreBlocks:Brick",
+    "CoreBlocks:Plank",
+    "CoreBlocks:Stone",
+    "CoreBlocks:Tnt",
+    "CoreBlocks:Torch",
+    "CoreBlocks:lava",
+    "CoreBlocks:Brick:engine:stair",
+    "CoreBlocks:YellowFlower",
+    "CoreBlocks:Dirt"
+  ],
+  "blockIdMap": {
+    "CoreBlocks:lava": 22,
+    "engine:unloaded": 1,
+    "CoreBlocks:Tulip": 26,
+    "CoreBlocks:chest.FRONT": 12,
+    "CoreBlocks:YellowFlower": 27,
+    "CoreBlocks:Plank": 21,
+    "CoreBlocks:Dandelion": 25,
+    "CoreBlocks:chest.RIGHT": 11,
+    "CoreBlocks:Stone": 2,
+    "CoreBlocks:water": 23,
+    "engine:air": 9,
+    "CoreBlocks:Brick:engine:stair.LEFT": 14,
+    "CoreBlocks:Brick:engine:stair.RIGHT": 15,
+    "CoreBlocks:chest.LEFT": 10,
+    "CoreBlocks:Torch.BACK": 33,
+    "CoreBlocks:Dirt": 3,
+    "CoreBlocks:Torch.FRONT": 32,
+    "CoreBlocks:Torch.BOTTOM": 29,
+    "CoreBlocks:Ice": 20,
+    "CoreBlocks:Iris": 24,
+    "CoreBlocks:Brick:engine:stair.BACK": 17,
+    "CoreBlocks:Torch.RIGHT": 31,
+    "CoreBlocks:Tnt": 18,
+    "CoreBlocks:Brick:engine:stair.FRONT": 16,
+    "CoreBlocks:Torch.LEFT": 30,
+    "CoreBlocks:chest.BACK": 13,
+    "CoreBlocks:Brick": 19,
+    "CoreBlocks:Torch.TOP": 28
+  },
+  "worlds": {
+    "main": {
+      "title": "main",
+      "customTitle": "Tutorial World-0",
+      "seed": "yF4u0twFEoY5v6N3WldBQD9g07uTyIyYTutorial World-00",
+      "time": 43200000,
+      "worldGenerator": "MySample:tutorialWorld"
+    }
+  },
+  "modules": [
+    {
+      "name": "Core",
+      "version": "3.0.0-SNAPSHOT"
+    },
+    {
+      "name": "BiomesAPI",
+      "version": "3.0.0-SNAPSHOT"
+    },
+    {
+      "name": "engine",
+      "version": "3.0.0-SNAPSHOT"
+    },
+    {
+      "name": "Health",
+      "version": "0.1.0-SNAPSHOT"
+    },
+    {
+      "name": "CoreSampleGameplay",
+      "version": "3.0.0-SNAPSHOT"
+    },
+    {
+      "name": "CoreBlocks",
+      "version": "1.0.1-SNAPSHOT"
+    },
+    {
+      "name": "Inventory",
+      "version": "1.0.0-SNAPSHOT"
+    },
+    {
+      "name": "CoreAssets",
+      "version": "1.0.2-SNAPSHOT"
+    },
+    {
+      "name": "MySample",
+      "version": "0.1.0-SNAPSHOT"
+    }
+  ]
+}
